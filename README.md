@@ -35,7 +35,8 @@ $ npm install
 $ npm start
 ```
 
-Then simply open [`http://localhost:3000`](http://localhost:3000) on your web browser and start throwing publication requests at it.
+Echidna will then be ready to attend publication requests sent to its enpoint, [`http://localhost:3000/api/`](http://localhost:3000/api/).
+You can also find a minimal holding page at [`http://localhost:3000`](http://localhost:3000).
 
 ## Syntax and command-line parameters
 
